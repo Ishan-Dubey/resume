@@ -1,2 +1,2 @@
 # About
-My latest resume
+My latest resume. Hosted at https://ishan-dubey.github.io/resume/
